@@ -1,0 +1,7 @@
+numpy==1.19.3
+Keras==2.3.1
+googledrivedownloader==0.4
+moviepy==1.0.3
+tensorflow==1.13.1
+streamlit==0.72.0
+opencv_python==4.4.0.46
