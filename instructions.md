@@ -15,7 +15,9 @@ All this into an interactive [Streamlit](https://streamlit.io) app.
 ### Questions? Comments?
 
 Please find me at: 
+
 [Github - Vivek Mishra](https://github.com/vk18mishra).
+
 [LinkedIn - Vivek Mishra](https://linkedin.com/in/vivek-mishra-12081997).
 
 or
