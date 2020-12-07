@@ -1,0 +1,3 @@
+googledrivedownloader==0.4
+streamlit==0.72.0
+Pillow==8.0.1
