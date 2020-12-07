@@ -43,15 +43,11 @@ def main():
 def download_file(file_path):
 
     if file_path == 'default_video':
-        with st.spinner('Downloading Default Video(35MB), Please Wait....'):
-            gdd.download_file_from_google_drive(file_id='13bjrQ7S2z-pyV2-zfeqEu4-RwRCO1uxq',
-                                                dest_path='./default_video.mp4', showsize=True)
-        st.success('Default Video Downloaded!')
+        gdd.download_file_from_google_drive(file_id='13bjrQ7S2z-pyV2-zfeqEu4-RwRCO1uxq',
+                                        dest_path='./default_video.mp4', showsize=True)
     if file_path == 'sample_output':
-        with st.spinner('Downloading Sample Output Video(18MB), Please Wait....'):
-            gdd.download_file_from_google_drive(file_id='1Ar039WQSsgKAGK-3m5H8x5kI-rhxU_kU',
-                                                dest_path='./sample_output.mp4', showsize=True)
-        st.success('Sample Output Video Downloaded!')
+        gdd.download_file_from_google_drive(file_id='1Ar039WQSsgKAGK-3m5H8x5kI-rhxU_kU',
+                                        dest_path='./sample_output.mp4', showsize=True)
     if file_path == 'unet_arch':
         gdd.download_file_from_google_drive(file_id='1uhmVB6choPnu8y6ZZDPE_VRtKCtKar2a',
                                         dest_path='./unet_architecture.jpeg', showsize=True)
