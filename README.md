@@ -15,7 +15,7 @@ Please find me at:
 
 [Github - Vivek Mishra](https://github.com/vk18mishra).
 
-[LinkedIn - Vivek Mishra](https://linkedin.com/in/vivek-mishra-12081997).
+[LinkedIn - Vivek Mishra](https://linkedin.com/in/itsvivekmishra).
 
 or
 
